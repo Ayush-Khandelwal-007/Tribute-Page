@@ -38,8 +38,30 @@ img {
 }
 a {
     color: #477ca7;
-  }
+}
   
-  a:visited {
+a:visited {
     color: #74638f;
-  }
+ }
+h3{
+    margin: 50px 0;
+    text-align: center;
+    color: #333;
+    
+}
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+  
+li {
+    margin: 16px 0;
+}
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
